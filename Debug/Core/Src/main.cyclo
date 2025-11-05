@@ -1,0 +1,10 @@
+../Core/Src/main.c:69:5:main	5
+../Core/Src/main.c:149:6:SystemClock_Config	3
+../Core/Src/main.c:192:6:SDCard_ShowInfo	2
+../Core/Src/main.c:222:6:SDCard_EraseBlocks	3
+../Core/Src/main.c:250:6:SDCard_TestWrite_DMA	3
+../Core/Src/main.c:272:6:SDCard_TestRead_DMA	1
+../Core/Src/main.c:283:6:HAL_SD_TxCpltCallback	1
+../Core/Src/main.c:291:6:HAL_SD_RxCpltCallback	2
+../Core/Src/main.c:304:5:__io_putchar	1
+../Core/Src/main.c:315:6:Error_Handler	1
